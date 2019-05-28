@@ -1,0 +1,6 @@
+D:\repos\Lab7\2\bin\Debug\2.exe.config
+D:\repos\Lab7\2\bin\Debug\2.exe
+D:\repos\Lab7\2\bin\Debug\2.pdb
+D:\repos\Lab7\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\repos\Lab7\2\obj\Debug\2.exe
+D:\repos\Lab7\2\obj\Debug\2.pdb
